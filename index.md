@@ -7,4 +7,6 @@
 
 ![Image of Uncle Pecos from Tom and Jerry](https://static.wikia.nocookie.net/tomandjerry/images/5/5a/Pecos_Pest_-_Jerry_welcomes_Uncle_Pecos.PNG/revision/latest?cb=20150124215848)
 
-Added some swag headers and image
+``` javascript
+var myVar = "Hello, world!";
+```
